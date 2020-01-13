@@ -4,5 +4,8 @@
   "main": "app.js",
   "repository": "git@github.com:fallofElil/social-network-backend.git",
   "author": "Ilya Kiyanov <ikiyanov@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
 }
